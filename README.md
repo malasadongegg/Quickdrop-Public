@@ -34,6 +34,7 @@ between them, and it's gone when the timer runs out.
 ## Table of contents
 
 - [Launch video](#launch-video)
+- [Status](#status)
 - [The problem](#the-problem)
 - [How to use it](#how-to-use-it)
 - [Core use case](#core-use-case)
@@ -326,6 +327,12 @@ All endpoints are under `/api/`. Selected routes:
 | POST | `/drops/<code>/join-requests/<id>/accept\|reject/` | Host decision (`X-Participant-Token`) |
 | POST | `/drops/<code>/live-items/` | Post a message/file into a Live Drop (`X-Participant-Token`) |
 | WS | `/ws/live/<code>/?token=...` | Real-time room event stream |
+
+## Status
+
+QuickDrop is live at [quickd.xyz](https://www.quickd.xyz) and runs on free-tier infrastructure. It is a soft launch, so expect rough edges and the occasional cold start.
+
+<p align="center"><img src="docs/images/donation-goal.jpg" alt="Optional monthly donation goal" width="280" /><br /><sub>An optional, transparent monthly donation goal.</sub></p>
 
 ## Limitations
 
