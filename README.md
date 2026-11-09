@@ -141,6 +141,17 @@ and messages and disconnects everyone.
   <sub>A Live Drop session on desktop, mirrored in real time on the guest's phone.</sub>
 </p>
 
+### Edge cases, handled
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/images/states/expired.jpg" width="230" /><br /><sub>Expired Drop</sub></td>
+    <td align="center"><img src="docs/images/states/notfound.jpg" width="230" /><br /><sub>Unknown code</sub></td>
+    <td align="center"><img src="docs/images/states/offline.jpg" width="230" /><br /><sub>Offline</sub></td>
+    <td align="center"><img src="docs/images/states/server-full-home.jpg" width="230" /><br /><sub>Server full</sub></td>
+  </tr>
+</table>
+
 ## How to use it
 
 ### Send a file or text
