@@ -53,7 +53,7 @@ between them, and it's gone when the timer runs out.
 
 <div align="center">
   <video src="https://github.com/malasadongegg/Quickdrop-Public/raw/main/docs/video/quickdrop-launch.mp4" poster="docs/video/poster.jpg" controls muted width="760"></video>
-  <br /><sub>Player not loading? <a href="docs/video/quickdrop-launch.mp4">Open the video directly</a>.</sub>
+  <br /><sub>Prefer a phone-sized cut? <a href="docs/video/quickdrop-launch-vertical.mp4">Watch the vertical version</a>. Player not loading? <a href="docs/video/quickdrop-launch.mp4">Open the video directly</a>.</sub>
 </div>
 
 ---
