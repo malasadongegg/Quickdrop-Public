@@ -349,6 +349,11 @@ QuickDrop is live at [quickd.xyz](https://www.quickd.xyz) and runs on free-tier 
 - No malware scanning on uploaded files — dangerous extensions are flagged
   in the UI, but content isn't inspected.
 
+## More docs
+
+- [FAQ](docs/FAQ.md)
+- [How it works](docs/HOW_IT_WORKS.md)
+
 ## Future roadmap
 
 - Malware scanning on upload (the storage pipeline is already structured to
