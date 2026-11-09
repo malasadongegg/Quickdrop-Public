@@ -33,6 +33,7 @@ between them, and it's gone when the timer runs out.
 
 ## Table of contents
 
+- [Launch video](#launch-video)
 - [The problem](#the-problem)
 - [How to use it](#how-to-use-it)
 - [Core use case](#core-use-case)
@@ -47,6 +48,13 @@ between them, and it's gone when the timer runs out.
 - [API overview](#api-overview)
 - [Limitations](#limitations)
 - [Future roadmap](#future-roadmap)
+
+## Launch video
+
+<div align="center">
+  <video src="https://github.com/malasadongegg/Quickdrop-Public/raw/main/docs/video/quickdrop-launch.mp4" poster="docs/video/poster.jpg" controls muted width="760"></video>
+  <br /><sub>Player not loading? <a href="docs/video/quickdrop-launch.mp4">Open the video directly</a>.</sub>
+</div>
 
 ---
 
