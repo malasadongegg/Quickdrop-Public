@@ -367,3 +367,13 @@ QuickDrop is live at [quickd.xyz](https://www.quickd.xyz) and runs on free-tier 
 - Native desktop/mobile companion clients.
 - Transfer statistics (aggregate, non-identifying).
 - Custom, per-Drop expiration policies beyond the fixed option set.
+
+---
+
+## About
+
+Built by **Mark** (BSIT 4A) as a hands-on full-stack project: real-time systems, object storage, rate limiting and privacy-first design.
+
+## License
+
+Copyright (c) 2026 Mark. All rights reserved. This repository is a showcase of the project. The source code is private and is not licensed for reuse.
